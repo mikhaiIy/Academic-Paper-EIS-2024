@@ -4,7 +4,7 @@ Welcome to the IEEE Short Academic Paper Assignment Repository for ENTERPRISE SY
 |       Group         |Topics                          |Even| Odd|
 |----------------|-------------------------------|-|-|
 |1&2|SAP + Demo           |<a href="" >Group 1</a>|<a href="" >Group 2</a>|
-|3&4          |Low code development + Demo https://www.outsystems.com/free-edition/#sign-up          |<a href="" >Group 3</a>|<a href="" >Group 4</a>|
+|3&4          |Low code development + Demo         |<a href="" >Group 3</a>|<a href="" >Group 4</a>|
 |5&6          |Microsoft Azure + Demo|<a href="" >Group 5</a>|<a href="" >Group 6</a>|
 |7&8          |Software in Enterprise Information System|<a href="" >Group 7</a>|<a href="" >Group 8</a>|
 |9&10          |Past, Current and Future Trend in Enterprise Information System|<a href="" >Group 9</a>|<a href="" >Group 10</a>|
