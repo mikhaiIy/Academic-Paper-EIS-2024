@@ -3,7 +3,7 @@ Welcome to the IEEE Short Academic Paper Assignment Repository for ENTERPRISE SY
 
 |Topics                          |Even Group| Odd Group|
 |-------------------------------|-|-|
-|SAP + Demo           |<a href="" >Group 1</a>|<a href="" >Group 2</a>|
+|SAP + Demo           |<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%201" >Group 1</a>|<a href="" >Group 2</a>|
 |Low code development + Demo         |<a href="" >Group 3</a>|<a href="" >Group 4</a>|
 |Microsoft Azure + Demo|<a href="" >Group 5</a>|<a href="" >Group 6</a>|
 |Software in Enterprise Information System|<a href="" >Group 7</a>|<a href="" >Group 8</a>|
