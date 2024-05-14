@@ -1,5 +1,5 @@
 # Assignment 1: Mastering Big Data Handling
-### Group Name: 303
+### Group Name: Group 7
 ### Group Members
 
 | Name                                     | Matric No. |
