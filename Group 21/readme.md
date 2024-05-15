@@ -9,4 +9,4 @@
 
 ### 📂 Folder content:
 * [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2021/Group%2021%20NG%20SUANG%20JOO%20%26%20LING%20WAN%20YIN.pdf)
-* [💻 Assignment 1  Slide Presentation]([PRESENTATION SLIDE.pdf](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2021/PRESENTATION%20SLIDE.pdf))
+* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2021/PRESENTATION%20SLIDE.pdf)
