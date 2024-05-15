@@ -8,7 +8,7 @@
 | Mikhail Bin Yassin              |A21EC0053     |
 
 ### 📂 Folder content:
-* [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%201/System%20Analysis%20Program%20Development%20(SAP)%20in%20Enterprise.pdf)
-* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%201/Presentation%20SAP%20Group%201.pdf)
+* [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%204/Group%204%20-%20Accelerating%20Development%20with%20Low-Code%20Platforms.pdf)
+* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%204/Group%204%20-%20Low%20Code%20Demonstration.pdf)
 
 
