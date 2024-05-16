@@ -9,4 +9,4 @@
 
 ### 📂 Folder content:
 * [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2010/G10%20ACADEMIC%20PAPER%20(PAST%2C%20CURRENT%2C%20FUTURE%20TRENDS%20IN%20ENTERPRISE%20INFORMATION%20SYSTEM).pdf)
-* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2010/G10%20PAST%2C%20CURRENT%2C%20FUTURE%20TRENDS%20IN%20EIS%20PRESENTATION.pdf)
+* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2010/G10%20PAST%2C%20CURRENT%2C%20FUTURE%20TRENDS%20IN%20EIS%20SLIDE%20PRESENTATION.pdf)
