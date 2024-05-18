@@ -1,5 +1,5 @@
 
-# Assignment 1: Software in Enterprise Information System
+# Assignment 1: Enterprise Information System in University
 ### Group Name: Group 12
 ### Group Members
 
