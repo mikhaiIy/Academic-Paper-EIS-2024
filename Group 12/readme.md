@@ -10,4 +10,4 @@
 
 ### 📂 Folder content:
 * [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2012/EIS%20ASSIGNMENT%201%20group%2012.pdf)
-* [💻 Assignment 1  Slide Presentation]()
+* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2012/EIS%20IN%20UNIVERSITY.pdf)
