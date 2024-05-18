@@ -8,7 +8,7 @@ Welcome to the IEEE Short Academic Paper Assignment Repository for ENTERPRISE SY
 |Microsoft Azure + Demo|<a href="" >Group 5</a>|<a href="" >Group 6</a>|
 |Software in Enterprise Information System|<a href="" >Group 7</a>|<a href="" >Group 8</a>|
 |Past, Current and Future Trend in Enterprise Information System|<a href="" >Group 9</a>|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%2010" >Group 10</a>|
-|Enterprise Information System in University|<a href="" >Group 11</a>|<a href="" >Group 12</a>|
+|Enterprise Information System in University|<a href="" >Group 11</a>|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2012/readme.md" >Group 12</a>|
 |Enterprise Information System in Manufacturing Industry|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group13" >Group 13</a>|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%2014" >Group 14</a>|
 |Enterprise System Architecture|<a href="Group 15" >Group 15</a>|<a href="" >Group 16</a>|
 |Enterprise System Architecture: Zahman|<a href="" >Group 17</a>|<a href="" >Group 18</a>|
