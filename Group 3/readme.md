@@ -8,8 +8,8 @@
 | Fauzan Aqil Bin Azman              |A21EC0174    |
 
 ### 📂 Folder content:
-* [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%204/Group%204%20-%20Accelerating%20Development%20with%20Low-Code%20Platforms.pdf)
-* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%204/Group%204%20-%20Low%20Code%20Demonstration.pdf)
+* [💻 Assignment 1 Academic Paper](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%203/Group%203%20ieee%20report%20assignment%201.pdf)
+* [💻 Assignment 1  Slide Presentation](https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%203/Group%203%20LOW-CODE%20presentation%20slides%20.pdf)
 
 
 
