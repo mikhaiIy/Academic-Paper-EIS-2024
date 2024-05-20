@@ -1,4 +1,4 @@
-# Assignment 1: SAP + DEMO
+# Assignment 1: SAPUI5
 ### Group Name: Group 2
 ### Group Members
 
