@@ -4,7 +4,7 @@
 
 | Name                                     | Matric No. |
 | :---------------------------------------- | :-------------: |
-| HAFIZULSHAH BIN SHAHROM            |A21EC0027      |
+| HAFIZULSHAH BIN SHAROM            |A21EC0027      |
 | ALYA DAMIA BINTI HUZAIMY              |A21EC0159     |
 
 ### 📂 Folder content:
