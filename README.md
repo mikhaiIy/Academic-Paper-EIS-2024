@@ -5,7 +5,7 @@ Welcome to the IEEE Short Academic Paper Assignment Repository for ENTERPRISE SY
 |-------------------------------|-|-|
 |SAP + Demo           |<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%201" >Group 1</a>|<a href="" >Group 2</a>|
 |Low code development + Demo         |<a href="" >Group 3</a>|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%204" >Group 4</a>|
-|Microsoft Azure + Demo|<a href="https://github.com/users/mikhaiIy/projects/5" >Group 5</a>|<a href="" >Group 6</a>|
+|Microsoft Azure + Demo|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%205" >Group 5</a>|<a href="" >Group 6</a>|
 |Software in Enterprise Information System|<a href="" >Group 7</a>|<a href="" >Group 8</a>|
 |Past, Current and Future Trend in Enterprise Information System|<a href="" >Group 9</a>|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/tree/main/Group%2010" >Group 10</a>|
 |Enterprise Information System in University|<a href="" >Group 11</a>|<a href="https://github.com/mikhaiIy/Academic-Paper-EIS-2024/blob/main/Group%2012/readme.md" >Group 12</a>|
